@@ -1,4 +1,4 @@
-# icinga2ext
+# What is icinga2ext
 
 [![Docker Automated Build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
 [![Docker Build Status](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)
