@@ -1,5 +1,8 @@
 # icinga2ext
 
+[![Docker Automated Build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)
+[![Docker Build Status](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)
+
 This repository contains the source for the [Icinga2](https://www.icinga.org/icinga2/) [Docker](https://www.docker.com) image.
 
 It is based heavily on Jordan Jethwa's Icinga2 Docker image with some additions:
