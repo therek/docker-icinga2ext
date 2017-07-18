@@ -6,7 +6,7 @@ image.
 
 It is based heavily on Jordan Jethwa's Icinga2 Docker image with some additions:
 * added `nslookup` and `dig` for `check_dns` and `check_dig` plugins;
-* added Net::SNMP Perl module for SNMP Manubolon plugins.
+* added Net::SNMP Perl module for SNMP Manubulon plugins.
 
 For container configuration please see
 [jordan/icinga2](https://hub.docker.com/r/jordan/icinga2/).
