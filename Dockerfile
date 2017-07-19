@@ -8,6 +8,7 @@ RUN apt-get update \
   && apt-get install -y --no-install-recommends \
     libnet-snmp-perl \
     dnsutils \
+    whois \
   && apt-get clean \
   && rm -rf /var/lib/apt/lists/*
 
